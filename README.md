@@ -1,9 +1,13 @@
 # 💫 About Me:
-👋 Hello! I’m Anuka, a Computer Systems Engineering graduate driven by a passion for crafting innovative and efficient digital solutions. With expertise in JavaScript, CSS, and HTML, I excel in utilizing libraries like React and Express alongside databases like MySQL and MongoDB to build dynamic, full-stack applications.
+👋 Hello, I'm Anuka Fonseka, a Software Engineer specializing in building enterprise-grade web applications and scalable backend systems. With a strong foundation in full-stack development, I transform complex business requirements into elegant, maintainable solutions.
 
-My journey as a developer revolves around blending creativity with technical excellence to deliver user-friendly interfaces and reliable backend systems. From designing scalable web applications to experimenting with cutting-edge technologies, I’m dedicated to continuously improving my skills and embracing new challenges.
+My expertise lies in architecting and deploying production systems using Java Spring Boot, Next.js, and Vue.js. I've successfully integrated enterprise authentication solutions like WSO2 Identity Server, implemented SSO across multiple platforms, and optimized applications to achieve 95%+ Lighthouse performance scores.
 
-Let’s connect and turn great ideas into reality! 🌟
+Beyond writing code, I focus on the complete software lifecycle—from system architecture and database design to Docker containerization, CI/CD pipelines, and Linux infrastructure management. I believe in building systems that are not only functional but also secure, performant, and maintainable.
+
+Currently at Tryonics, I'm working on enterprise projects for clients like Fairfirst and IASL, where I lead development from architecture to deployment. I thrive in environments that challenge me to learn new technologies and solve complex problems collaboratively.
+
+"I'm passionate about creating systems that make a difference—whether it's streamlining authentication for thousands of users or building high-performance web platforms. Let's build something amazing together."
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anukafonseka) <br/>
